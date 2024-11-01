@@ -4,11 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=crveskig&style=flat-square&color=blue" alt=""/>
-  
-  <iframe src="https://github1s.com/codemaster0909219/Qr-code-reader-react-native" width="100%" height="500px" frameborder="0">
-          Your browser does not support iframes.
-  </iframe>
+  <img src="https://komarev.com/ghpvc/?username=codemaster0909219&style=flat-square&color=blue" alt=""/>
 </div>
 
 # Senior Full Stack Developer 👋
